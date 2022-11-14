@@ -22,22 +22,22 @@ function rectangle(Input) {
     if (figure == "square") {
         a = a * a;
         
-        console.log(a);        
+        console.log(a.toFixed(3));        
     }
     if (figure == "rectangle") {
         b = a * b;
 
-        console.log(b);
+        console.log(a.toFixed(3));
     }
     if (figure == "circle") {
         a = Math.PI * (a * a);
 
-        console.log(a);
+        console.log(a.toFixed(3));
     }
     if (figure == "triangle") {
         a = (a / 2) * b;
 
-        console.log(a);
+        console.log(a.toFixed(3));
     }
 }
 
