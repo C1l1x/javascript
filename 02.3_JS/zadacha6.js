@@ -1,7 +1,8 @@
 /* 
 Ivan reshava da podobri Svetovniq rekord po pluvane na dulgi rastoqniq. Funkiqta poluchava: rekordut
 v sekundi, koito Ivan trqbva da podobri, rastoqnieto v metri, koeto trqbva da prepluva i vremeto v
-sekundi, za koeto pluva rastoqnie ot 1m. Da se napishe funkciq, koqto izchislqva dali se e spravil sus zadachata, kato se ima predvid, che: suprotivlenieto na vodata go zabavq na vseki 15m. s 12.5 sekundi.
+sekundi, za koeto pluva rastoqnie ot 1m. Da se napishe funkciq, koqto izchislqva dali se e spravil sus 
+zadachata, kato se ima predvid, che: suprotivlenieto na vodata go zabavq na vseki 15m. s 12.5 sekundi.
 Kogato se izchislqva kolko puti Ivancho shte se zabavi, v rezultat na suprotivlenieto na vodata, rezultatut
 trqbva da se zakrugli nadolu do nai-blizkoto cqlo chislo.
 
